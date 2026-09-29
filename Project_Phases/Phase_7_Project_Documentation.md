@@ -3,7 +3,7 @@
 ## Local Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone [http://127.0.0.1:8000]
+   git clone https://github.com/naveenm1028/EduGenie-Google-Gemini-Powered-Learned-Assistant/blob/main/Project_Phases/Phase_7_Project_Documentation.md
    
 
 
